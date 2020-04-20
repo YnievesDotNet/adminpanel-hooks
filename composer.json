@@ -1,0 +1,44 @@
+{
+    "name": "ynievesdotnet/adminpanel-hooks",
+    "description": "Hooks integrated in AdminPanel",
+    "keywords": ["laravel", "hooks", "adminpanel"],
+    "license": "MIT",
+    "homepage": "https://www.ynieves.net/",
+    "support": {
+        "issues": "https://github.com/ynievesdotnet/adminpanel-hooks/issues",
+        "source": "https://github.com/ynievesdotnet/adminpanel-hooks"
+    },
+    "authors": [
+        {
+            "name": "Yoinier Hernández Nieves",
+            "email": "ynieves@ynieves.net"
+        },
+        {
+            "name": "Mark Topper",
+            "email": "mark@ulties.com"
+        }
+    ],
+    "require": {
+        "larapack/hooks": "~1.0.2"
+    },
+    "require-dev": {
+        "orchestra/testbench": ">=3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "YnievesDotNet\\AdminPanelHooks\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "YnievesDotNet\\AdminPanelHooks\\Tests\\": "tests/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "YnievesDotNet\\AdminPanelHooks\\AdminPanelHooksServiceProvider"
+            ]
+        }
+    }
+}

@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://travis-ci.org/ynievesdotnet/adminpanel-hooks"><img src="https://travis-ci.org/ynievesdotnet/adminpanel-hooks.svg?branch=master" alt="Build Status"></a>
-<a href="https://styleci.io/repos/76975411/shield?style=flat"><img src="https://styleci.io/repos/76975411/shield?style=flat" alt="Build Status"></a>
+<a href="https://github.styleci.io/repos/257430580"><img src="https://github.styleci.io/repos/257430580/shield?branch=master" alt="StyleCI"></a>
 <a href="https://packagist.org/packages/ynievesdotnet/adminpanel-hooks"><img src="https://poser.pugx.org/ynievesdotnet/adminpanel-hooks/downloads.svg?format=flat" alt="Total Downloads"></a>
 <a href="https://packagist.org/packages/ynievesdotnet/adminpanel-hooks"><img src="https://poser.pugx.org/ynievesdotnet/adminpanel-hooks/v/stable.svg?format=flat" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/ynievesdotnet/adminpanel-hooks"><img src="https://poser.pugx.org/ynievesdotnet/adminpanel-hooks/license.svg?format=flat" alt="License"></a>
